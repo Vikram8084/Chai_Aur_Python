@@ -1,0 +1,14 @@
+[
+    {
+        "name": "chai aur code",
+        "time": "1:30"
+    },
+    {
+        "name": "python -u \"c:\\Users\\91808\\Desktop\\Github\\Chai_Aur_Python\\09_Error_handling\\youtubem.py\"",
+        "time": "python -u \"c:\\Users\\91808\\Desktop\\Github\\Chai_Aur_Python\\09_Error_handling\\youtubem.py\""
+    },
+    {
+        "name": "chai aur code",
+        "time": "30 mins"
+    }
+]
